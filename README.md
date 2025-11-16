@@ -27,7 +27,7 @@ This repository contains my fedora linux install list, including system configur
 
 ## command line tools
 
-- [git](https://www.theodinproject.com/lessons/foundations-git-basics)
+- [git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
   ```bash
   # changing commit message editor to vs code
