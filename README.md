@@ -23,7 +23,7 @@ This repository contains my fedora linux install list, including system configur
 
 - [jetbrains mono](https://www.jetbrains.com/lp/mono/)
 
-- [workspace shortcut conflict](<https://askubuntu.com/questions/1193090/what-is-hidin(g-ctrl-shift-alt-up-down)>)
+- [workspace shortcut conflict](https://askubuntu.com/questions/1193089/what-is-hidin(g-ctrl-shift-alt-up-down))
 
 ## command line tools
 
