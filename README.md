@@ -15,10 +15,24 @@ This repository contains my fedora linux install list, including system configur
   sudo dnf swap 'ffmpeg-free' 'ffmpeg' --allowerasing
   ```
 
-- [fuse](https://github.com/appimage/appimagekit/wiki/fuse)
-
 - [build essential](https://unix.stackexchange.com/questions/1338/what-is-the-fedora-equivalent-of-the-debian-build-essential-package)
 
 - [keyd](https://github.com/rvaiya/keyd)
 
-- [workspace shortcut conflict](https://askubuntu.com/questions/1193089/what-is-hidin(g-ctrl-shift-alt-up-down))
+- [fuse](https://github.com/appimage/appimagekit/wiki/fuse)
+
+- [workspace shortcut conflict](<https://askubuntu.com/questions/1193090/what-is-hidin(g-ctrl-shift-alt-up-down)>)
+
+## command line tools
+
+- [vim](https://fedoraproject.org/wiki/Vim)
+
+- [git](https://www.theodinproject.com/lessons/foundations-git-basics)
+
+  ```bash
+  # changing commit message editor to vs code
+  git config --global core.editor "code --wait"
+  ```
+
+- [node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
+
