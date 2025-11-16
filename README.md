@@ -25,8 +25,6 @@ This repository contains my fedora linux install list, including system configur
 
 ## command line tools
 
-- [vim](https://fedoraproject.org/wiki/Vim)
-
 - [git](https://www.theodinproject.com/lessons/foundations-git-basics)
 
   ```bash
@@ -36,3 +34,35 @@ This repository contains my fedora linux install list, including system configur
 
 - [node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
 
+- [vim](https://fedoraproject.org/wiki/Vim)
+
+## applications
+
+- [bitwarden](https://flathub.org/en/apps/com.bitwarden.desktop)
+
+- [discord](https://discord.com/download)
+
+- [extension manager](https://flathub.org/en/apps/com.mattjakeman.ExtensionManager)
+  - alphabetical app grid
+
+- [google chrome](https://support.google.com/chrome/a/answer/9025903?hl=en)
+
+- [obsidian](https://flathub.org/en/apps/md.obsidian.Obsidian)
+
+- [open tablet driver](https://opentabletdriver.net/Wiki/Install/Linux)
+
+- [postman](https://flathub.org/en/apps/com.getpostman.Postman)
+
+- [telegram](https://flathub.org/en/apps/org.telegram.desktop)
+
+- [ticktick](https://ticktick.com/download?language=en_US)
+
+- [vlc](https://docs.fedoraproject.org/en-US/quick-docs/installing-and-running-vlc/)
+
+- [vivaldi](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+    ```bash
+    # forcing dark mode
+    sudo nano /usr/share/applications/vivaldi-stable.desktop
+    Exec=/usr/bin/vivaldi-stable %U --force-dark-mode --enable-features=WebUIDarkMode
+    ```
+- [vs code](https://code.visualstudio.com/docs/setup/linux)
