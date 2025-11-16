@@ -21,6 +21,8 @@ This repository contains my fedora linux install list, including system configur
 
 - [fuse](https://github.com/appimage/appimagekit/wiki/fuse)
 
+- [jetbrains mono](https://www.jetbrains.com/lp/mono/)
+
 - [workspace shortcut conflict](<https://askubuntu.com/questions/1193090/what-is-hidin(g-ctrl-shift-alt-up-down)>)
 
 ## command line tools
@@ -66,3 +68,9 @@ This repository contains my fedora linux install list, including system configur
     Exec=/usr/bin/vivaldi-stable %U --force-dark-mode --enable-features=WebUIDarkMode
     ```
 - [vs code](https://code.visualstudio.com/docs/setup/linux)
+
+## app images
+- [openrgb](https://openrgb.org/#downloads)
+
+## wallpapers
+- [macos monteroy](https://4kwallpapers.com/gradients/macos-monterey-wwdc-21-stock-dark-mode-5k-5585.html)
