@@ -55,8 +55,6 @@ This repository contains my fedora linux install list, including system configur
 
 - [postman](https://flathub.org/en/apps/com.getpostman.Postman)
 
-- [telegram](https://flathub.org/en/apps/org.telegram.desktop)
-
 - [ticktick](https://ticktick.com/download?language=en_US)
 
 - [vlc](https://docs.fedoraproject.org/en-US/quick-docs/installing-and-running-vlc/)
