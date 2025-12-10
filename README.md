@@ -23,7 +23,7 @@ This repository contains my fedora linux install list, including system configur
 
 - [jetbrains mono](https://www.jetbrains.com/lp/mono/)
 
-- [workspace shortcut conflict](https://askubuntu.com/questions/1193089/what-is-hidin(g-ctrl-shift-alt-up-down))
+- [workspace shortcut conflict](<https://askubuntu.com/questions/1193089/what-is-hidin(g-ctrl-shift-alt-up-down)>)
 
 ## command line tools
 
@@ -42,9 +42,12 @@ This repository contains my fedora linux install list, including system configur
 
 - [bitwarden](https://flathub.org/en/apps/com.bitwarden.desktop)
 
+- [calibre](https://packages.fedoraproject.org/pkgs/calibre/calibre/)
+
 - [discord](https://discord.com/download)
 
 - [extension manager](https://flathub.org/en/apps/com.mattjakeman.ExtensionManager)
+
   - alphabetical app grid
 
 - [google chrome](https://support.google.com/chrome/a/answer/9025903?hl=en)
@@ -57,18 +60,20 @@ This repository contains my fedora linux install list, including system configur
 
 - [ticktick](https://ticktick.com/download?language=en_US)
 
-- [vlc](https://docs.fedoraproject.org/en-US/quick-docs/installing-and-running-vlc/)
+- [vlc](https://flathub.org/en/apps/org.videolan.VLC)
 
 - [vivaldi](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
-    ```bash
-    # forcing dark mode
-    sudo nano /usr/share/applications/vivaldi-stable.desktop
-    Exec=/usr/bin/vivaldi-stable %U --force-dark-mode --enable-features=WebUIDarkMode
-    ```
+  ```bash
+  # forcing dark mode
+  sudo nano /usr/share/applications/vivaldi-stable.desktop
+  Exec=/usr/bin/vivaldi-stable %U --force-dark-mode --enable-features=WebUIDarkMode
+  ```
 - [vs code](https://code.visualstudio.com/docs/setup/linux)
 
 ## app images
+
 - [openrgb](https://openrgb.org/#downloads)
 
 ## wallpapers
+
 - [macos monteroy](https://4kwallpapers.com/gradients/macos-monterey-wwdc-21-stock-dark-mode-5k-5585.html)
