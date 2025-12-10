@@ -66,7 +66,7 @@ This repository contains my fedora linux install list, including system configur
   ```bash
   # forcing dark mode
   sudo nano /usr/share/applications/vivaldi-stable.desktop
-  Exec=/usr/bin/vivaldi-stable %U --force-dark-mode --enable-features=WebUIDarkMode
+  Exec=/usr/bin/vivaldi-stable --force-dark-mode --enable-features=WebUIDarkMode %U
   ```
 - [vs code](https://code.visualstudio.com/docs/setup/linux)
 
