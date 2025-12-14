@@ -44,7 +44,7 @@ This repository contains my fedora linux install list, including system configur
 
 - [calibre](https://packages.fedoraproject.org/pkgs/calibre/calibre/)
 
-- [discord](https://discord.com/download)
+- [discord](https://flathub.org/en/apps/com.discordapp.Discord)
 
 - [extension manager](https://flathub.org/en/apps/com.mattjakeman.ExtensionManager)
 
@@ -65,7 +65,9 @@ This repository contains my fedora linux install list, including system configur
 - [vivaldi](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
   ```bash
   # forcing dark mode
-  sudo nano /usr/share/applications/vivaldi-stable.desktop
+  mkdir -p ~/.local/share/applications
+  cp /usr/share/applications/vivaldi-stable.desktop ~/.local/share/applications/
+  nano ~/.local/share/applications/vivaldi-stable.desktop
   Exec=/usr/bin/vivaldi-stable --force-dark-mode --enable-features=WebUIDarkMode %U
   ```
 - [vs code](https://code.visualstudio.com/docs/setup/linux)
