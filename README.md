@@ -49,8 +49,13 @@ This repository contains my fedora linux install list, including system configur
 - [extension manager](https://flathub.org/en/apps/com.mattjakeman.ExtensionManager)
 
   - alphabetical app grid
+  - blur my shell
 
 - [google chrome](https://support.google.com/chrome/a/answer/9025903?hl=en)
+
+- [kid3](https://packages.fedoraproject.org/pkgs/kid3/kid3/)
+
+- [nicotine+](https://packages.fedoraproject.org/pkgs/nicotine+/nicotine+/)
 
 - [obsidian](https://flathub.org/en/apps/md.obsidian.Obsidian)
 
@@ -63,13 +68,7 @@ This repository contains my fedora linux install list, including system configur
 - [vlc](https://flathub.org/en/apps/org.videolan.VLC)
 
 - [vivaldi](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
-  ```bash
-  # forcing dark mode
-  mkdir -p ~/.local/share/applications
-  cp /usr/share/applications/vivaldi-stable.desktop ~/.local/share/applications/
-  nano ~/.local/share/applications/vivaldi-stable.desktop
-  Exec=/usr/bin/vivaldi-stable --force-dark-mode --enable-features=WebUIDarkMode %U
-  ```
+
 - [vs code](https://code.visualstudio.com/docs/setup/linux)
 
 ## app images
